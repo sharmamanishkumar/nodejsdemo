@@ -1,0 +1,7 @@
+{
+    "env":{
+        "ATLAS_PW":"prelax123",
+        "JWT_KEY":"secretOrPrivateKey",
+        "DB":"prelax"
+    }
+}
